@@ -1,0 +1,47 @@
+# Node.js related files and folders
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript related files
+*.js
+*.js.map
+*.d.ts
+
+# Compiled output
+dist/
+
+# Editor and IDE related files
+.vscode/
+.idea/
+
+# macOS related files
+.DS_Store
+
+# IDE specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Build process and temporary files
+*.log
+*.tmp
+*.tmp.*
+*.pid
+*.seed
+*.pid.lock
+*.log.*
+*.cache
+*.css.map
+*.yml
+*.xml
+*.json
+
+# Various other files and directories
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
